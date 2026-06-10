@@ -2,9 +2,9 @@
 
 
 
-# HAKIZA-1i (MMB-basic&lite)                                      
+# HAKIZA-1i (MMB-basic&lite were intially build to work with The Deriv legacy API which is being retired)                                      
 
-
+READ THE UPDATE  https://legacy-api.deriv.com/updates TO ADAPT THE MMB-basic&lite CODE ACCORDINGLY (pretty much anyone with coding skill can do it)
 
 
 Section 0: General System Claim And Step-by-Step Algorithmic Diagram Descriptions 
